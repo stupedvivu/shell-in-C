@@ -1,7 +1,7 @@
 /*This is a shell in c
 	
 	run this code in LINUX
-	sudo apt-get install libreadline-dev ( if you already have this, then ignore this )  
+	sudo apt-get install libreadline-dev ( if you already have, then ignore this )  
 	references - https://brennan.io/2015/01/16/write-a-shell-in-c/
 		     https://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm
 		     https://youtu.be/ZGmg8wEdQOM
